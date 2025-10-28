@@ -1,17 +1,9 @@
-# swifty_companion
+# Swifty_Companion
+A flutter App that uses 42 API.
+<br><br/>
 
-A new Flutter project.
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/3e55d0e1-8d83-4871-9426-3f0ce6a19c2d" width="400" />
+</div>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Swifty
