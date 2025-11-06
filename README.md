@@ -1,5 +1,7 @@
 # Swifty_Companion
-A flutter App that uses 42 API.
+
+The aim of the project is to build an application that will retrieve the information of 42 students,
+using the 42 API.
 <br><br/>
 
 <div align="center">
