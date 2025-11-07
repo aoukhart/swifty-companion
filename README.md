@@ -6,6 +6,7 @@ using the 42 API.
 - Handes authentication with OAuth2, refresh token when expires and logout.
 - Fetch connected user <a href="https://github.com/aoukhart/swifty-companion/blob/main/lib/models/user.dart">data</a> and display all the informations needed.
 - Search for a 42 student through the search page and get all informations (location, lvl, coallition...).
+- Check for network connection before any operation, in addition to swipe up to refresh the page.
 <br><br/>
 <sub>Done with Flutter, android studio, android emulator and a bit of passion.</sub>
 <br><br/>
